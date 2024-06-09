@@ -1,2 +1,1 @@
-# lswtrue.github.io
-Leave something behind
+[Leave something behind(留下些东西)](https://lswtrue.github.io/)
